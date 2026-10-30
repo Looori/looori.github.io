@@ -1,0 +1,19 @@
+dsh-connector-hub/catalog/v1/index.json
+  s_3fe81c5a46de2e::t_065e35a512ff1f 1-5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "b4a8478b42657157f9d267152914a4ff10b9af10",
+  "prompts": {},
+  "sessions": {
+    "s_3fe81c5a46de2e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "0715380b-3dce-4389-8d3d-4cbc34a40fea",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "luoli74 <66784394+Looori@users.noreply.github.com>"
+    }
+  }
+}
